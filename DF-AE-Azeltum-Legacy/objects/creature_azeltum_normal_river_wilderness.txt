@@ -1,0 +1,8 @@
+creature_azeltum_normal_river_wilderness
+-River Temperate Brackishwater 5/5
+-River Temperate Freshwater 5/5
+-River Temperate Saltwater 5/5
+-River Tropical Brackishwater 5/5
+-River Tropical Freshwater 5/5
+-River Tropical Saltwater 5/5
+[OBJECT:CREATURE]

@@ -1,0 +1,32 @@
+creature_azeltum_normal_subterranean_large
+-Subterranean Chasm tier1 5/5
+-Subterranean Chasm tier2 5/5
+-Subterranean Chasm tier3 5/5
+-Subterranean Lava tier1 5/5
+-Subterranean Lava tier2 5/5
+-Subterranean Lava tier3 5/5
+-Subterranean Lava tier4 5/5
+-Subterranean Water tier1 5/5
+-Subterranean Water tier2 5/5
+-Subterranean Water tier3 5/5
+[OBJECT:CREATURE]
+
+-Subterranean Chasm tier1
+
+-Subterranean Chasm tier2
+
+-Subterranean Chasm tier3
+
+-Subterranean Lava tier1
+
+-Subterranean Lava tier2
+
+-Subterranean Lava tier3
+
+-Subterranean Lava tier4
+
+-Subterranean Water tier1
+
+-Subterranean Water tier2
+
+-Subterranean Water tier3

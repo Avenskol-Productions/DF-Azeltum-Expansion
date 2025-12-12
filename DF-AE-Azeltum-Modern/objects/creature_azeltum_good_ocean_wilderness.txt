@@ -1,0 +1,5 @@
+creature_azeltum_good_ocean_wilderness
+-Ocean Artic 5/5
+-Ocean Temperate 5/5
+-Ocean Tropical 5/5
+[OBJECT:CREATURE]

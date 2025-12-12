@@ -1,0 +1,11 @@
+creature_azeltum_normal_desert_sentient
+-Desert Badland 1/1
+-Desert Rock 1/1
+-Desert Sand 1/1
+[OBJECT:CREATURE]
+
+-Desert Badland
+
+-Desert Rock
+
+-Desert Sand

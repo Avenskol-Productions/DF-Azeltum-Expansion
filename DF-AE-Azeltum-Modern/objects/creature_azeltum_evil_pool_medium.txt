@@ -1,0 +1,20 @@
+creature_azeltum_evil_pool_medium
+-Pool Temperate Brackishwater 5/5
+-Pool Temperate Freshwater 5/5
+-Pool Temperate Saltwater 5/5
+-Pool Tropical Brackishwater 5/5
+-Pool Tropical Freshwater 5/5
+-Pool Tropical Saltwater 5/5
+[OBJECT:CREATURE]
+
+-Pool Temperate Brackishwater
+
+-Pool Temperate Freshwater
+
+-Pool Temperate Saltwater
+
+-Pool Tropical Brackishwater
+
+-Pool Tropical Freshwater
+
+-Pool Tropical Saltwater

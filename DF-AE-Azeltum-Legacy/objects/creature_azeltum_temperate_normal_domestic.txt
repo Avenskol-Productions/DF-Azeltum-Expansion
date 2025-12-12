@@ -1,0 +1,29 @@
+creature_azeltum_temperate_normal_domestic
+-Forest Temperate Conifer 5/5
+-Forest Temperate Broadleaf 5/5
+-Marsh Temperate Freshwater 5/5
+-Marsh Temperate Saltwater 5/5
+-Grassland Temperate 5/5
+-Savanna Temperate 5/5
+-Shrubland Temperate 5/5
+-Swamp Temperate Freshwater 5/5
+-Swamp Temperate Saltwater 5/5
+[OBJECT:CREATURE]
+
+-Forest Temperate Conifer
+
+-Forest Temperate Broadleaf
+
+-Marsh Temperate Freshwater
+
+-Marsh Temperate Saltwater
+
+-Grassland Temperate
+
+-Savanna Temperate
+
+-Shrubland Temperate
+
+-Swamp Temperate Freshwater
+
+-Swamp Temperate Saltwater

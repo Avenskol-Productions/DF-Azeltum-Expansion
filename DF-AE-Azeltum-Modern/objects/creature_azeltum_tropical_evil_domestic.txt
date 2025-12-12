@@ -1,0 +1,32 @@
+creature_azeltum_tropical_evil_domestic
+-Forest Tropical Dry Broadleaf 5/5
+-Forest Tropical Moist Broadleaf 5/5
+-Marsh Tropical Freshwater 5/5
+-Marsh Tropical Saltwater 5/5
+-Grassland Tropical 5/5
+-Savanna Tropical 5/5
+-Shrubland Tropical 5/5
+-Swamp Mangrove 5/5
+-Swamp Tropical Freshwater 5/5
+-Swamp Tropical Saltwater 5/5
+[OBJECT:CREATURE]
+
+-Forest Tropical Dry Broadleaf
+
+-Forest Tropical Moist Broadleaf
+
+-Marsh Tropical Freshwater
+
+-Marsh Tropical Saltwater
+
+-Grassland Tropical
+
+-Savanna Tropical
+
+-Shrubland Tropical
+
+-Swamp Mangrove
+
+-Swamp Tropical Freshwater
+
+-Swamp Tropical Saltwater

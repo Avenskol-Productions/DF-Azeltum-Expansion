@@ -1,0 +1,8 @@
+creature_azeltum_mountain_medium
+-Mountain Evil 5/5
+-Mountains Evil 5/5
+-Mountain Good 5/5
+-Mountains Good 5/5
+-Mountain Normal 5/5
+-Mountains Normal 5/5
+[OBJECT:CREATURE]

@@ -1,0 +1,8 @@
+creature_azeltum_normal_lake_vermin
+-Lake Temperate Brackishwater 5/5
+-Lake Temperate Freshwater 5/5
+-Lake Temperate Saltwater 5/5
+-Lake Tropical Brackishwater 5/5
+-Lake Tropical Freshwater 5/5
+-Lake Tropical Saltwater 5/5
+[OBJECT:CREATURE]

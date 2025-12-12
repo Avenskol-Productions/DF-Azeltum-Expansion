@@ -1,0 +1,8 @@
+creature_azeltum_mountain_sentient
+-Mountain Evil 1/1
+-Mountains Evil 1/1
+-Mountain Good 1/1
+-Mountains Good 1/1
+-Mountain Normal 1/1
+-Mountains Normal 1/1
+[OBJECT:CREATURE]

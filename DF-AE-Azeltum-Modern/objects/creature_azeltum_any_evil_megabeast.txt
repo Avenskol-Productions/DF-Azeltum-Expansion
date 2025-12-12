@@ -1,0 +1,55 @@
+creature_azeltum_any_evil_megabeast
+-Any Desert 1/1
+-Any Forest 1/1
+-Any Grassland 1/1
+-Any Savanna 1/1
+-Any Shrubland 1/1
+-Any Temperate 1/1
+-Any Temperate Forest 1/1
+-Any Temperate Marsh 1/1
+-Any Temperate Swamp 1/1
+-Any Temperate Wetland 1/1
+-Any Tropical 1/1
+-Any Tropical Forest 1/1
+-Any Tropical Marsh 1/1
+-Any Tropical Swamp 1/1
+-Any Tropical Wetland 1/1
+-Any Wetland 1/1
+-Not Freezing 1/1
+[OBJECT:CREATURE]
+
+-Any Desert
+
+-Any Forest
+
+-Any Grassland
+
+-Any Land
+
+-Any Savanna
+
+-Any Shrubland
+
+-Any Temperate
+
+-Any Temperate Forest
+
+-Any Temperate Marsh
+
+-Any Temperate Swamp
+
+-Any Temperate Wetland
+
+-Any Tropical
+
+-Any Tropical Forest
+
+-Any Tropical Marsh
+
+-Any Tropical Swamp
+
+-Any Tropical Wetland
+
+-Any Wetland
+
+-Not Freezing

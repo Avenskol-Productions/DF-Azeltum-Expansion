@@ -1,0 +1,11 @@
+creature_azeltum_normal_desert_medium
+-Desert Badland 5/5
+-Desert Rock 5/5
+-Desert Sand 5/5
+[OBJECT:CREATURE]
+
+-Desert Badland
+
+-Desert Rock
+
+-Desert Sand

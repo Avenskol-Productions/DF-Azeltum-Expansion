@@ -1,0 +1,5 @@
+creature_azeltum_good_cold_medium
+-Glacier 5/5
+-Taiga 5/5
+-Tundra 5/5
+[OBJECT:CREATURE]

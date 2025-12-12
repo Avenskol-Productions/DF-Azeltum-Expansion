@@ -1,0 +1,80 @@
+creature_azeltum_any_normal_wilderness
+-All Main 5/5
+-Any Desert 5/5
+-Any Forest 5/5
+-Any Grassland 5/5
+-Any Lake 5/5
+-Any Land 5/5
+-Any Ocean 5/5
+-Any Pool 5/5
+-Any Savanna 5/5
+-Any Shrubland 5/5
+-Any Temperate 5/5
+-Any Temperate Forest 5/5
+-Any Temperate Lake 5/5
+-Any Temperate River 5/5
+-Any Temperate Marsh 5/5
+-Any Temperate Swamp 5/5
+-Any Temperate Wetland 5/5
+-Any Tropical 5/5
+-Any Tropical Forest 5/5
+-Any Tropical Lake 5/5
+-Any Tropical River 5/5
+-Any Tropical Marsh 5/5
+-Any Tropical Swamp 5/5
+-Any Tropical Wetland 5/5
+-Any Wetland 5/5
+-Not Freezing 5/5
+[OBJECT:CREATURE]
+
+-All Main
+
+-Any Desert
+
+-Any Forest
+
+-Any Grassland
+
+-Any Lake
+
+-Any Land
+
+-Any Ocean
+
+-Any Pool
+
+-Any Savanna
+
+-Any Shrubland
+
+-Any Temperate
+
+-Any Temperate Forest
+
+-Any Temperate Lake
+
+-Any Temperate River
+
+-Any Temperate Marsh
+
+-Any Temperate Swamp
+
+-Any Temperate Wetland
+
+-Any Tropical
+
+-Any Tropical Forest
+
+-Any Tropical Lake
+
+-Any Tropical River
+
+-Any Tropical Marsh
+
+-Any Tropical Swamp
+
+-Any Tropical Wetland
+
+-Any Wetland
+
+-Not Freezing

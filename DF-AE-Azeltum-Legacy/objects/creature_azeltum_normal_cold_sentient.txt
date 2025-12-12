@@ -1,0 +1,5 @@
+creature_azeltum_normal_cold_sentient
+-Glacier 1/1
+-Taiga 1/1
+-Tundra 1/1
+[OBJECT:CREATURE]
