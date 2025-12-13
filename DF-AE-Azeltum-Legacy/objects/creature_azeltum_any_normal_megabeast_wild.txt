@@ -1,0 +1,56 @@
+creature_azeltum_any_normal_megabeast_wild
+-Any Land 1/1 -PETVALUE:695
+-Any Desert 1/1 -PETVALUE:740
+-Any Forest 1/1 -PETVALUE:720
+-Any Grassland 1/1 -PETVALUE:725
+-Any Savanna 1/1 -PETVALUE:730
+-Any Shrubland 1/1 -PETVALUE:735
+-Any Temperate 1/1 -PETVALUE:700
+-Any Temperate Forest 1/1 -PETVALUE:745
+-Any Temperate Marsh 1/1 -PETVALUE:755
+-Any Temperate Swamp 1/1 -PETVALUE:760
+-Any Temperate Wetland 1/1 -PETVALUE:750
+-Any Tropical 1/1 -PETVALUE:705
+-Any Tropical Forest 1/1 -PETVALUE:765
+-Any Tropical Marsh 1/1 -PETVALUE:780
+-Any Tropical Swamp 1/1 -PETVALUE:775
+-Any Tropical Wetland 1/1 -PETVALUE:770
+-Any Wetland 1/1 -PETVALUE:710
+-Not Freezing 1/1 -PETVALUE:715
+[OBJECT:CREATURE]
+
+-Any Desert
+
+-Any Forest
+
+-Any Grassland
+
+-Any Land
+
+-Any Savanna
+
+-Any Shrubland
+
+-Any Temperate
+
+-Any Temperate Forest
+
+-Any Temperate Marsh
+
+-Any Temperate Swamp
+
+-Any Temperate Wetland
+
+-Any Tropical
+
+-Any Tropical Forest
+
+-Any Tropical Marsh
+
+-Any Tropical Swamp
+
+-Any Tropical Wetland
+
+-Any Wetland
+
+-Not Freezing

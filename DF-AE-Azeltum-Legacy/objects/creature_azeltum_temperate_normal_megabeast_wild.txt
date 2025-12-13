@@ -1,0 +1,29 @@
+creature_azeltum_temperate_normal_megabeast_wild
+-Forest Temperate Conifer 1/1
+-Forest Temperate Broadleaf 1/1
+-Marsh Temperate Freshwater 1/1
+-Marsh Temperate Saltwater 1/1
+-Grassland Temperate 1/1
+-Savanna Temperate 1/1
+-Shrubland Temperate 1/1
+-Swamp Temperate Freshwater 1/1
+-Swamp Temperate Saltwater 1/1
+[OBJECT:CREATURE]
+
+-Forest Temperate Conifer
+
+-Forest Temperate Broadleaf
+
+-Marsh Temperate Freshwater
+
+-Marsh Temperate Saltwater
+
+-Grassland Temperate
+
+-Savanna Temperate
+
+-Shrubland Temperate
+
+-Swamp Temperate Freshwater
+
+-Swamp Temperate Saltwater

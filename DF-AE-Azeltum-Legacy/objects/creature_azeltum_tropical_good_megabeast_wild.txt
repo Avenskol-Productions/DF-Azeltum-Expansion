@@ -1,0 +1,32 @@
+creature_azeltum_tropical_good_megabeast_wild
+-Forest Tropical Dry Broadleaf 1/1
+-Forest Tropical Moist Broadleaf 1/1
+-Marsh Tropical Freshwater 1/1
+-Marsh Tropical Saltwater 1/1
+-Grassland Tropical 1/1
+-Savanna Tropical 1/1
+-Shrubland Tropical 1/1
+-Swamp Mangrove 1/1
+-Swamp Tropical Freshwater 1/1
+-Swamp Tropical Saltwater 1/1
+[OBJECT:CREATURE]
+
+-Forest Tropical Dry Broadleaf
+
+-Forest Tropical Moist Broadleaf
+
+-Marsh Tropical Freshwater
+
+-Marsh Tropical Saltwater
+
+-Grassland Tropical
+
+-Savanna Tropical
+
+-Shrubland Tropical
+
+-Swamp Mangrove
+
+-Swamp Tropical Freshwater
+
+-Swamp Tropical Saltwater

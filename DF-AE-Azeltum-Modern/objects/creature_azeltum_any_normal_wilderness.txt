@@ -7,6 +7,7 @@ creature_azeltum_any_normal_wilderness
 -Any Land 5/5
 -Any Ocean 5/5
 -Any Pool 5/5
+-Any River 5/5
 -Any Savanna 5/5
 -Any Shrubland 5/5
 -Any Temperate 5/5
@@ -42,6 +43,8 @@ creature_azeltum_any_normal_wilderness
 -Any Ocean
 
 -Any Pool
+
+-Any River
 
 -Any Savanna
 
