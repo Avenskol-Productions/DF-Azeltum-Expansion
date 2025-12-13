@@ -40,6 +40,12 @@ creature_azeltum_any_normal_domestic
 
 -Any Land
 
+AE_AZELTUM_N_AL_D1 -Diki
+
+AE_AZELTUM_N_AL_D2 -Doko
+
+AE_AZELTUM_N_AL_D3 -Damu
+
 [CREATURE:AE_AZELTUM_N_AL_D4]
 	[DESCRIPTION:A large mammalian herbivore.  It has thick fur and arched horns.  It can be found in anywhere on land, and is commonly domesticated.]
 	[NAME:dokmaj:dokmajs:dokmaj]
@@ -167,6 +173,8 @@ creature_azeltum_any_normal_domestic
 		[SET_TL_GROUP:BY_CATEGORY:EYE:EYE]
 			[TL_COLOR_MODIFIER:PUPIL_EYE_AMBER:1]
 				[TLCM_NOUN:eyes:PLURAL]
+
+AE_AZELTUM_N_AL_D5 -Dorjmok
 
 -Any Ocean
 

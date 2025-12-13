@@ -1,31 +1,31 @@
 creature_azeltum_any_normal_small
--All Main 5/5 -PETVALUE:105-130
--Any Desert 5/5 -PETVALUE:355-380
--Any Forest 5/5 -PETVALUE:255-280
--Any Grassland 5/5 -PETVALUE:280-305
--Any Lake 5/5 -PETVALUE:55-80
--Any Land 5/5 -PETVALUE:130-155
--Any Ocean 5/5 -PETVALUE:80-105
--Any Pool 5/5 -PETVALUE:10-30
--Any River 5/5 -PETVALUE:30-55
--Any Savanna 5/5 -PETVALUE:305-330
--Any Shrubland 5/5 -PETVALUE:330-355
--Any Temperate 5/5 -PETVALUE:155-180
--Any Temperate Forest 5/5 -PETVALUE:430-455
--Any Temperate Lake 5/5 -PETVALUE:405-430
--Any Temperate River 5/5 -PETVALUE:380-405
--Any Temperate Marsh 5/5 -PETVALUE:480-505
--Any Temperate Swamp 5/5 -PETVALUE:505-530
--Any Temperate Wetland 5/5 -PETVALUE:455-480
--Any Tropical 5/5 -PETVALUE:180-205
--Any Tropical Forest 5/5 -PETVALUE:580-605
--Any Tropical Lake 5/5 -PETVALUE:555-580
--Any Tropical River 5/5 -PETVALUE:530-555
--Any Tropical Marsh 5/5 -PETVALUE:655-680
--Any Tropical Swamp 5/5 -PETVALUE:630-655
--Any Tropical Wetland 5/5 -PETVALUE:605-630
--Any Wetland 5/5 -PETVALUE:205-230
--Not Freezing 5/5 -PETVALUE:230-255
+-All Main 5/5 -PETVALUE:110-135
+-Any Desert 5/5 -PETVALUE:360-385
+-Any Forest 5/5 -PETVALUE:260-285
+-Any Grassland 5/5 -PETVALUE:285-310
+-Any Lake 5/5 -PETVALUE:60-85
+-Any Land 5/5 -PETVALUE:135-160
+-Any Ocean 5/5 -PETVALUE:85-110
+-Any Pool 5/5 -PETVALUE:15-35
+-Any River 5/5 -PETVALUE:35-60
+-Any Savanna 5/5 -PETVALUE:310-335
+-Any Shrubland 5/5 -PETVALUE:335-360
+-Any Temperate 5/5 -PETVALUE:160-185
+-Any Temperate Forest 5/5 -PETVALUE:435-460
+-Any Temperate Lake 5/5 -PETVALUE:410-435
+-Any Temperate River 5/5 -PETVALUE:385-410
+-Any Temperate Marsh 5/5 -PETVALUE:485-510
+-Any Temperate Swamp 5/5 -PETVALUE:510-535
+-Any Temperate Wetland 5/5 -PETVALUE:460-485
+-Any Tropical 5/5 -PETVALUE:185-210
+-Any Tropical Forest 5/5 -PETVALUE:585-610
+-Any Tropical Lake 5/5 -PETVALUE:560-585
+-Any Tropical River 5/5 -PETVALUE:535-510
+-Any Tropical Marsh 5/5 -PETVALUE:660-685
+-Any Tropical Swamp 5/5 -PETVALUE:635-660
+-Any Tropical Wetland 5/5 -PETVALUE:610-635
+-Any Wetland 5/5 -PETVALUE:210-235
+-Not Freezing 5/5 -PETVALUE:235-260
 [OBJECT:CREATURE]
 
 -All Main
