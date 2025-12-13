@@ -41,17 +41,23 @@ creature_azeltum_any_normal_domestic
 -Any Land
 
 AE_AZELTUM_N_AL_D1 -Diki
-
+-Female Diki Mumu
+-Male: Diki Mimi
+-Child: Diki Momo
+-Vermin
 AE_AZELTUM_N_AL_D2 -Doko
-
+-Female Doko Koko
+-Male: Doko Kaka
+-Child: Doko Kiki
+-Vermin Hunter
 AE_AZELTUM_N_AL_D3 -Damu
 
 [CREATURE:AE_AZELTUM_N_AL_D4]
 	[DESCRIPTION:A large mammalian herbivore.  It has thick fur and arched horns.  It can be found in anywhere on land, and is commonly domesticated.]
 	[NAME:dokmaj:dokmajs:dokmaj]
 	[CHILD:1][GENERAL_CHILD_NAME:dokmaj juka:dokmaj jukas]
-	[CREATURE_TILE:'D'][COLOR:7:0:1]
-	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_TILE:'D'][COLOR:7:0:1][CREATURE_CLASS:ANY_LAND]
+	[CREATURE_CLASS:MAMMAL][CREATURE_CLASS:AZELTUM_DOMESTIC]
 	[BIOME:ANY_LAND][POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:3:7][PETVALUE:145]
 	[PREFSTRING:thick fur][LARGE_ROAMING]
