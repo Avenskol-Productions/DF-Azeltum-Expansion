@@ -1,4 +1,4 @@
-b_detail_plan_azeltum
+b_detail_plan_azeltum_creatures
 
 [OBJECT:BODY_DETAIL_PLAN]
 
