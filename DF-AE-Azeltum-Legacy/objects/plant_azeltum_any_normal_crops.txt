@@ -1,0 +1,53 @@
+plant_azeltum_any_normal_crops
+-Any Desert 5/5
+-Any Forest 5/5
+-Any Grassland 5/5
+-Any Savanna 5/5
+-Any Shrubland 5/5
+-Any Temperate 5/5
+-Any Temperate Forest 5/5
+-Any Temperate Marsh 5/5
+-Any Temperate Swamp 5/5
+-Any Temperate Wetland 5/5
+-Any Tropical 5/5
+-Any Tropical Forest 5/5
+-Any Tropical Marsh 5/5
+-Any Tropical Swamp 5/5
+-Any Tropical Wetland 5/5
+-Any Wetland 5/5
+-Not Freezing 5/5
+[OBJECT:PLANT]
+
+-Any Desert
+
+-Any Forest
+
+-Any Grassland
+
+-Any Savanna
+
+-Any Shrubland
+
+-Any Temperate
+
+-Any Temperate Forest
+
+-Any Temperate Marsh
+
+-Any Temperate Swamp
+
+-Any Temperate Wetland
+
+-Any Tropical
+
+-Any Tropical Forest
+
+-Any Tropical Marsh
+
+-Any Tropical Swamp
+
+-Any Tropical Wetland
+
+-Any Wetland
+
+-Not Freezing
