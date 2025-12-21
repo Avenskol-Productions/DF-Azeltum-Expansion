@@ -1,0 +1,16 @@
+inorganic_azeltum_soil
+-Soil 5/5
+-Soil Clay 5/5
+--MATERIAL_REACTION_PRODUCT:FIRED_MAT:INORGANIC:CERAMIC_
+-Soil Ocean 5/5
+--Aquifer
+-Soil Sand 5/5
+[OBJECT:INORGANIC]
+
+-Soil
+
+-Soil Clay
+
+-Soil Ocean
+
+-Soil Sand

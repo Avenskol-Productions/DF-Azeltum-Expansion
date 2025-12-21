@@ -1,0 +1,25 @@
+inorganic_azeltum_layers
+-Deep Surface 1/1
+-Igneous Extrusive 1/1
+-Igneous Intrusive 1/1
+-Metamorphic 1/1
+-Sedimentary 1/1
+-Sedimentary Ocean Deep 1/1
+--Aquifer
+-Sedimentary Ocean Shallow 1/1
+--Aquifer
+[OBJECT:INORGANIC]
+
+-Deep Surface
+
+-Igneous Extrusive
+
+-Igneous Intrusive
+
+-Metamorphic
+
+-Sedimentary
+
+-Sedimentary Ocean Deep
+
+-Sedimentary Ocean Shallow

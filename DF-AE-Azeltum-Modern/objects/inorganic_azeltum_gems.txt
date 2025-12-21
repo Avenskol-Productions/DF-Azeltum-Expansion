@@ -1,0 +1,29 @@
+inorganic_azeltum_gems
+-All Stone 5/5
+-Alluvial 5/5
+-Igneous All 5/5
+-Igneous Extrusive 5/5
+-Igneous Intrusive 5/5
+-Sedimentary 5/5
+-Soil 5/5
+-Soil Ocean 5/5
+-Soil Sand 5/5
+[OBJECT:INORGANIC]
+
+-All Stone
+
+-Alluvial
+
+-Igneous All
+
+-Igneous Extrusive
+
+-Igneous Intrusive
+
+-Sedimentary
+
+-Soil
+
+-Soil Ocean
+
+-Soil Sand

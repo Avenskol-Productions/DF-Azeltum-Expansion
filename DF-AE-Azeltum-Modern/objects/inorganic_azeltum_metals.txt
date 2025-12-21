@@ -1,0 +1,50 @@
+inorganic_azeltum_metals
+-All Stone 1/1
+-Alluvial 1/1
+-Deep Special 1/1
+-Igneous All 1/1
+-Igneous Extrusive 1/1
+-Igneous Intrusive 1/1
+-Sedimentary 1/1
+-Soil 1/1
+-Soil Ocean 1/1
+-Soil Sand 1/1
+[OBJECT:INORGANIC]
+
+-All Stone
+
+-Alluvial
+
+-Deep Special
+
+-Igneous All
+
+-Igneous Extrusive
+
+-Igneous Intrusive
+
+-Sedimentary
+
+-Soil
+
+-Soil Ocean
+
+-Soil Sand
+
+-Alluvial
+
+-Deep Special
+
+-Igneous All
+
+-Igneous Extrusive
+
+-Igneous Intrusive
+
+-Sedimentary
+
+-Soil
+
+-Soil Ocean
+
+-Soil Sand
