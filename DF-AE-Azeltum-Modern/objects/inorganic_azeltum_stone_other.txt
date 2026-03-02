@@ -1,0 +1,24 @@
+inorganic_azeltum_stone_other
+1/1 AllStone
+-Large:1/1
+6/6 Igneous Extrusive
+-LargeCluster:1/1
+-SmallCluster:4/4
+-Veins:1/1
+1/1 Igneous Intrusive
+-LargeCluster:1/1
+5/5 Metamorphic
+-LargeCluster:2/2
+-SmallCluster:2/2
+-Veins:1/1
+8/8 Sedimentary
+-LargeCluster:4/4
+-SmallCluster:2/2
+-Veins:2/2
+23/23 Specific
+-LargeCluster:6/6
+-SmallCluster:14/14
+--LargeCluster:1/1
+-Veins:2/2
+Total:44
+[OBJECT:INORGANIC]

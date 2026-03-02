@@ -1,0 +1,19 @@
+inorganic_azeltum_stone_layer
+5/5 Igneous Extrusive
+-MagmaSafe:2/2
+-SharpBlades:1/1
+3/3 Igneous Intrusive
+-MagmaSafe:1/1
+6/6 Metamorphic
+-Flux:1/1
+--CalciumCarbonate:1/1
+-MagmaSafe:1/1
+11/11 Sedimentary
+-Flux:3/3
+--CalciumCarbonate:2/2
+-MagmaSafe:3/3
+-Aquifier:2/2
+--OceanDeep:1/1
+--OceanShallow:1/1
+Total:25
+[OBJECT:INORGANIC]
