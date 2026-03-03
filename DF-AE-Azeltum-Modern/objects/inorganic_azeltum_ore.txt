@@ -1,0 +1,35 @@
+inorganic_azeltum_ore
+All Alluvial
+-SmallCluster
+--3/3
+All Igneous
+-SmallCluster
+--1/1
+-Veins
+--1/1
+All Igneous Extrusive
+-SmallCluster
+--1/1
+-Veins
+--3/3
+All Igneous Intrusive
+-SmallCluster
+--1/1
+All Metamorphic
+-SmallCluster
+--2/2
+-Veins
+--2/2
+All Sedimentary
+-LargeCluster
+--1/1
+-Veins
+--2/2
+Special
+-1/1
+Specific
+-SmallCluster
+--3/3
+-Veins
+--11/11
+[OBJECT:INORGANIC]
