@@ -1,0 +1,23 @@
+inorganic_azeltum_metals
+Pure Metals 11/11
+-AlloySpecific
+--1/1
+-Decorative
+-7/7
+-Special 0/1
+--1/1
+-WeaponGrade 3/3
+Alloys 14/14
+-DecorativeAlloys 6/6
+--6/6
+-UniqueAlloying 1/1
+--1/1
+-ValuableAlloys 4/4
+--3/3
+-WeaponGrade 4/4
+--4/4
+---UniqueAlloy
+----1/1
+---ValuableAlloy
+----1/1
+[OBJECT:INORGANIC]
