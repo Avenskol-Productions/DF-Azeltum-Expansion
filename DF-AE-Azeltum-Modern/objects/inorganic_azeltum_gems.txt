@@ -1,0 +1,34 @@
+inorganic_azeltum_gems
+AllLayers:
+-SmallCluster
+-Value
+--2 40/40
+--3 3/3
+--10 16/16
+--15 5/5
+--20 46/46
+--25 2/2
+--30 5/5
+--40 4/4
+--60 8/8
+All Igneous
+-6/6
+All Stone
+-36/36
+Alluvial
+-5/5
+Igneous Extrusive
+-1/1
+Igneous Intrusive
+-1/1
+Metamorphic
+26/26
+Sedimentary
+-30/30
+Specific
+-86/86
+--SmallCluster
+---80/80
+--SingleGems
+---6/6
+[OBJECT:INORGANIC]
